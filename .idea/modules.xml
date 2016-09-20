@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DropTarget/DropTarget.iml" filepath="$PROJECT_DIR$/DropTarget/DropTarget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowDesign/FlowDesign.iml" filepath="$PROJECT_DIR$/FlowDesign/FlowDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowDesign2/FlowDesign2.iml" filepath="$PROJECT_DIR$/FlowDesign2/FlowDesign2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowDesign3/FlowDesign3.iml" filepath="$PROJECT_DIR$/FlowDesign3/FlowDesign3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowDesign4/FlowDesign4.iml" filepath="$PROJECT_DIR$/FlowDesign4/FlowDesign4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowDesign5/FlowDesign5.iml" filepath="$PROJECT_DIR$/FlowDesign5/FlowDesign5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkflowDesigner.iml" filepath="$PROJECT_DIR$/WorkflowDesigner.iml" />
+    </modules>
+  </component>
+</project>

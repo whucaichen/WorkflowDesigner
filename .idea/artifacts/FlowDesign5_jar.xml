@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlowDesign5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlowDesign5_jar</output-path>
+    <root id="archive" name="FlowDesign5.jar">
+      <element id="module-output" name="FlowDesign5" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/dom4j-2.0.0-RC1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
